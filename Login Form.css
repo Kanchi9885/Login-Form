@@ -1,0 +1,76 @@
+body{
+    display: flex;
+}
+.loginform{
+    justify-content: center;
+    width: 400px;
+    /* border: 1px solid grey; */
+    box-shadow: 2px grey;
+    margin-right: 10px;
+    padding: 40px;
+    margin-left: 12%;
+    margin-top: 10%;
+    background-color: white;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+        input[type="email"],
+        input[type="password"] {
+            padding: 2%;
+            width: 85%;
+            margin: 3%;
+            border: 2px;
+            box-shadow: 2px;
+            border: 1px solid grey;
+            padding: 12px;
+            border-radius: 5px;
+        }
+.btn{
+    background-color: rgb(41, 41, 233);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    width: 90%;
+    margin: 4%;
+    padding: 3%;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.btn2{
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    width: 50%;
+    margin-top: 5%;
+    padding: 3%;
+    margin-left: 25%;
+}
+#forgot{
+    text-align: center;
+    text-decoration: none;
+    padding-left: 35%;
+    
+}
+.ksv{
+    border: 2px;
+}
+.main{
+    margin-left: 17%;
+    margin-top: 10%;
+}
+.h1{
+    color: blue;
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.h2{
+    margin-top: 2%;
+    padding: 0px;
+    font-weight: lighter;
+}
